@@ -1,5 +1,5 @@
 import React from "react";
-import Debugger from "./Debugger"; // Ensure it's a relative import
+import Debugger from "./Debugger";
 
 function App() {
   return (
